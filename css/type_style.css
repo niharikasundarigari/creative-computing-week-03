@@ -5,4 +5,28 @@
 body {
 	max-width: 800px;
 	font size: 24px;
+	line-height: 34px;
+	font-weight: normal;
+	font-family: 'Ruslan Display', cursive;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-bottom: 80px;
+}
+
+h2 {
+	margin-bottom: 100px;
+
+}
+
+p{
+	margin-bottom: 100px;
+	word-spacing: 10px;
+}
+
+.quote {
+	color: red;
+	background-color: yellow;
 }
