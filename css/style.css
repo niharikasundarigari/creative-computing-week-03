@@ -4,7 +4,8 @@
 
 h1 {
 	font-size: 30px;
-	font-style: bold;
+	font-weight: bolder;
+	background-color: purple;
 
 }
 
@@ -14,12 +15,12 @@ h1 {
 
 p {
    align-content: left;
-   font-family: 'Oswald', sans-serif;
+   font-family: 'Raleway', sans-serif;
    margin-bottom: 100px;
-   word-spacing: 10px;
+   word-spacing: 15px;
    font-weight: normal;
    font-size: 24px;
-   color: red;
+   color: black;
 
 }
 
